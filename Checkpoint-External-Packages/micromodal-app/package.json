@@ -1,0 +1,21 @@
+{
+  "name": "micromodal-app",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "full-stack-developer-road-map"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "harrison kussie",
+  "license": "ISC",
+  "dependencies": {
+    "micromodal": "^0.4.10"
+  }
+}
