@@ -1,0 +1,12 @@
+#content {
+    text-align: center;
+}
+
+.json-response {
+    white-space: pre-wrap;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: monospace;
+}

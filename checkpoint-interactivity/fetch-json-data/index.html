@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <script src="index.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    </head>
+    <div id="content">
+        <h1>Fetch GitHub Data</h1>
+        <label for="add-activity">Add username: </label>
+        <input type="text" id="add-activity">
+        <button onclick=fetchData()>Search</button>
+        <br>
+        <p id="dataDiv"></p>
+        <p id="errorDiv"></p>
+    </div>
+</html>
